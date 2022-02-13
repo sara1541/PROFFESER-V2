@@ -5,7 +5,7 @@ Very Sempil Bot Auto Filter bot
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/cf155df93bf1f2d722736.jpg)](https://heroku.com/deploy?template=https://github.com/madtoazenzio/PROFFESER-V2)
+[![Deploy](https://telegra.ph/file/cf155df93bf1f2d722736.jpg)](https://heroku.com/deploy?template=https://github.com/sara1541/PROFFESER-V2)
 
 - [x] Auto Filter
 - [x] Manuel Filter
